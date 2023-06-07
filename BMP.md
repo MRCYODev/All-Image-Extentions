@@ -1,6 +1,6 @@
-The .BMP file extension refers to the Bitmap Image File format. BMP is a widely used image format on Windows platforms that stores graphical data as an uncompressed bitmap. It provides a simple and straightforward representation of image data without any compression or loss of quality.
+**The .BMP file extension refers to the Bitmap Image File format. BMP is a widely used image format on Windows platforms that stores graphical data as an uncompressed bitmap. It provides a simple and straightforward representation of image data without any compression or loss of quality.**
 
-Here's a comprehensive explanation of the .BMP file extension:
+<ins>Here's a comprehensive explanation of the .BMP file extension:</ins>
 
 1. Uncompressed Format: BMP is an uncompressed image format, which means it retains every pixel's color information without any lossy compression. Each pixel in a BMP file is represented by a specific number of bits, typically ranging from 1 to 32 bits per pixel. This results in high-quality images but also larger file sizes compared to compressed formats like JPEG or PNG.
 
@@ -18,4 +18,4 @@ Here's a comprehensive explanation of the .BMP file extension:
 
 8. Usage Considerations: BMP files are typically suitable for scenarios where image quality and accuracy are paramount, or when working with legacy systems that require uncompressed image data. They are less commonly used for web applications or situations that prioritize smaller file sizes or compatibility with a broader range of platforms and software.
 
-Understanding the characteristics and limitations of the BMP format helps in determining when it is most appropriate to use BMP files in specific applications or when converting to more widely supported formats might be necessary.
+**Understanding the characteristics and limitations of the BMP format helps in determining when it is most appropriate to use BMP files in specific applications or when converting to more widely supported formats might be necessary.**
