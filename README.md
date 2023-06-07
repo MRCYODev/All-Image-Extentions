@@ -1,5 +1,6 @@
 # All Types of Image File Extensions
 
+<img src="https://github.com/MRCYODev/All-Image-Extentions/blob/main/Image%20Extention.png?raw=true" width="500" align="right">
 
 # [3FR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md)
 # [ARW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ARW.md)
