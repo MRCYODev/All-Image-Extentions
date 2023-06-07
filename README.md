@@ -18,7 +18,7 @@
 # [HEIF](/HEIF.md)
 # [ICNS](/ICNS.md)
 # [ICO](/ICO.md)
-JFIF
+# [JFIF](/JFIF.md)
 JPEG
 JPG
 MOS
