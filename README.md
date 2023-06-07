@@ -20,7 +20,7 @@
 # [ICO](/ICO.md)
 # [JFIF](/JFIF.md)
 # [JPEG](/JPEG.md)
-JPG
+# [JPG](/JPG.md)
 MOS
 MRW
 NEF
