@@ -3,7 +3,7 @@
 
 # [3FR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md)
 # [ARW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ARW.md)
-AVIF
+# [AVIF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/AVIF.md)
 BMP
 CR2
 CR3
