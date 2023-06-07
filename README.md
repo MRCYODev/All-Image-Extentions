@@ -33,14 +33,14 @@
 # [PS](/PS.md)
 # [PSD](/PSD.md)
 # [RAF](/RAF.md)
-RAW
-RW2
-TIF
-TIFF
-WEBP
-X3F
-XCF
-XPS
+# [RAW](/RAW.md)
+# [RW2](/RW2.md)
+# [TIF](/TIF.md)
+# [TIFF](/TIFF.md)
+# [WEBP](/WEBP.md)
+# [X3F](/X3F.md)
+# [XCF](/XCF.md)
+# [XPS](/XPS.md)
 
 
 
