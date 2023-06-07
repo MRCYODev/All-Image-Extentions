@@ -8,7 +8,7 @@
 # [BMP](https://github.com/MRCYODev/All-Image-Extentions/blob/main/BMP.md)
 # [CR2](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR2.md)
 # [CR3](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR3.md)
-CRW
+# [CRW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CRW.md)
 DCR
 DNG
 EPS
