@@ -14,7 +14,7 @@
 # [EPS](/EPS.md)
 # [ERF](/ERF.md)
 # [GIF](/GIF.md)
-HEIC
+# [HEIC](/HEIC.md)
 HEIF
 ICNS
 ICO
