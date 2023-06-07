@@ -29,7 +29,7 @@
 # [ORF](/ORF.md)
 # [PEF](/PEF.md)
 # [PNG](/PNG.md)
-PPM
+# [PPM](/PPM.md)
 PS
 PSD
 RAF
