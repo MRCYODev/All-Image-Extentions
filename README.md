@@ -1,7 +1,7 @@
 # All Types of Image File Extensions
 
 
-3FR
+[](3FR)
 ARW
 AVIF
 BMP
