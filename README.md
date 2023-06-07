@@ -2,18 +2,18 @@
 
 <img src="https://github.com/MRCYODev/All-Image-Extentions/blob/main/Image%20Extention.png?raw=true" width="500" align="right">
 
-# [3FR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md)
-# [ARW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ARW.md)
-# [AVIF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/AVIF.md)
-# [BMP](https://github.com/MRCYODev/All-Image-Extentions/blob/main/BMP.md)
-# [CR2](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR2.md)
+# [3FR](/3FR.md)
+# [ARW](/ARW.md)
+# [AVIF](/AVIF.md)
+# [BMP](/BMP.md)
+# [CR2](/CR2.md)
 # [CR3](/CR3.md)
-# [CRW](./CRW.md)
-# [DCR](./DCR.md)
-# [DNG](./DNG.md)
-# [EPS](./EPS.md)
-# [ERF](./ERF.md)
-# [GIF](./GIF.md)
+# [CRW](/CRW.md)
+# [DCR](/DCR.md)
+# [DNG](/DNG.md)
+# [EPS](/EPS.md)
+# [ERF](/ERF.md)
+# [GIF](/GIF.md)
 HEIC
 HEIF
 ICNS
