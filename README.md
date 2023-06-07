@@ -1,8 +1,8 @@
 # All Types of Image File Extensions
 
 
-[https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md](3FR)
-ARW
+# [3FR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md)
+# [ARW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ARW.md)
 AVIF
 BMP
 CR2
@@ -40,3 +40,7 @@ WEBP
 X3F
 XCF
 XPS
+
+
+
+
