@@ -15,7 +15,7 @@
 # [ERF](/ERF.md)
 # [GIF](/GIF.md)
 # [HEIC](/HEIC.md)
-HEIF
+# [HEIF](/HEIF.md)
 ICNS
 ICO
 JFIF
