@@ -21,7 +21,7 @@
 # [JFIF](/JFIF.md)
 # [JPEG](/JPEG.md)
 # [JPG](/JPG.md)
-MOS
+# [MOS](/MOS.md)
 MRW
 NEF
 ODD
