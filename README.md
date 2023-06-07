@@ -32,7 +32,7 @@
 # [PPM](/PPM.md)
 # [PS](/PS.md)
 # [PSD](/PSD.md)
-RAF
+# [RAF](/RAF.md)
 RAW
 RW2
 TIF
