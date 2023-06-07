@@ -1,7 +1,7 @@
 # All Types of Image File Extensions
 
 
-[](3FR)
+[https://github.com/MRCYODev/All-Image-Extentions/blob/main/3FR.md](3FR)
 ARW
 AVIF
 BMP
