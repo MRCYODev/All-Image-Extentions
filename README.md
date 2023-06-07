@@ -28,7 +28,7 @@
 # [ODG](/ODG.md)
 # [ORF](/ORF.md)
 # [PEF](/PEF.md)
-PNG
+# [PNG](/PNG.md)
 PPM
 PS
 PSD
