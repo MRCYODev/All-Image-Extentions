@@ -22,7 +22,7 @@
 # [JPEG](/JPEG.md)
 # [JPG](/JPG.md)
 # [MOS](/MOS.md)
-MRW
+# [MRW](/MRW.md)
 NEF
 ODD
 ODG
