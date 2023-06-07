@@ -6,6 +6,9 @@ Here are some key features and details about the .3FR file extension:
 
    2. Sensor Data: 3FR files store the raw data obtained from the camera's image sensor, including the individual pixel values, color information, and metadata. This data allows photographers to have precise control over aspects such as exposure, white balance, noise reduction, and other adjustments during post-processing.
 
+   1. Second
+   2. jhg
+
 >>> High-Quality Images: Medium format cameras, like those produced by Hasselblad, are known for their exceptional image quality, high dynamic range, and excellent color reproduction. The 3FR format enables photographers to capture images with a large amount of detail and tonal range, providing the best possible starting point for professional editing.
 
 >>>> Manufacturer-Specific Format: The .3FR extension is specific to Hasselblad cameras and is not widely supported by all image editing software. To work with 3FR files, photographers often rely on specialized software provided by Hasselblad or other third-party applications that offer compatibility with this format.
