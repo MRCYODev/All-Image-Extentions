@@ -5,7 +5,7 @@
 # [ARW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ARW.md)
 # [AVIF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/AVIF.md)
 # [BMP](https://github.com/MRCYODev/All-Image-Extentions/blob/main/BMP.md)
-CR2
+# [CR2](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR2.md)
 CR3
 CRW
 DCR
