@@ -25,7 +25,7 @@
 # [MRW](/MRW.md)
 # [NEF](/NEF.md)
 # [ODD](/ODD.md)
-# [ODG](/ODD.md)
+# [ODG](/ODG.md)
 ORF
 PEF
 PNG
