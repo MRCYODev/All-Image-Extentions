@@ -19,7 +19,7 @@
 # [ICNS](/ICNS.md)
 # [ICO](/ICO.md)
 # [JFIF](/JFIF.md)
-JPEG
+# [JPEG](/JPEG.md)
 JPG
 MOS
 MRW
