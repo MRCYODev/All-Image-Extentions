@@ -1,4 +1,6 @@
-**The .PNG file extension refers to Portable Network Graphics, which is a widely used image file format. PNG files are known for their lossless compression, support for transparent backgrounds, and ability to display high-quality images with a relatively small file size. Here's a detailed explanation of the .PNG file extension:**
+**The .PNG file extension refers to Portable Network Graphics, which is a widely used image file format. PNG files are known for their lossless compression, support for transparent backgrounds, and ability to display high-quality images with a relatively small file size.**
+
+<ins>Here's a detailed explanation of the .PNG file extension:</ins>
 
 1. Lossless Compression: PNG files use lossless compression, which means that they retain all the original image data without any loss of quality. This is in contrast to compressed formats like JPEG, which use lossy compression and may result in a slight loss of image quality. The lossless compression algorithm used in PNG files ensures that the image can be restored to its original form without any degradation.
 
