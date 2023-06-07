@@ -13,7 +13,7 @@
 # [DNG](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DNG.md)
 # [EPS](https://github.com/MRCYODev/All-Image-Extentions/blob/main/EPS.md)
 # [ERF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ERF.md)
-# [GIF](#GIF)
+# [GIF](./GIF)
 HEIC
 HEIF
 ICNS
