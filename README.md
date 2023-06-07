@@ -11,8 +11,8 @@
 # [CRW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CRW.md)
 # [DCR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DCR.md)
 # [DNG](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DNG.md)
-# [EPS]()
-ERF
+# [EPS](https://github.com/MRCYODev/All-Image-Extentions/blob/main/EPS.md)
+# [ERF]()
 GIF
 HEIC
 HEIF
