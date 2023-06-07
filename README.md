@@ -31,7 +31,7 @@
 # [PNG](/PNG.md)
 # [PPM](/PPM.md)
 # [PS](/PS.md)
-PSD
+# [PSD](/PSD.md)
 RAF
 RAW
 RW2
