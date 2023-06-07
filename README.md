@@ -7,12 +7,12 @@
 # [AVIF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/AVIF.md)
 # [BMP](https://github.com/MRCYODev/All-Image-Extentions/blob/main/BMP.md)
 # [CR2](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR2.md)
-# [CR3](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR3.md)
-# [CRW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CRW.md)
-# [DCR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DCR.md)
-# [DNG](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DNG.md)
-# [EPS](https://github.com/MRCYODev/All-Image-Extentions/blob/main/EPS.md)
-# [ERF](https://github.com/MRCYODev/All-Image-Extentions/blob/main/ERF.md)
+# [CR3](/CR3.md)
+# [CRW](./CRW.md)
+# [DCR](./DCR.md)
+# [DNG](./DNG.md)
+# [EPS](./EPS.md)
+# [ERF](./ERF.md)
 # [GIF](./GIF.md)
 HEIC
 HEIF
