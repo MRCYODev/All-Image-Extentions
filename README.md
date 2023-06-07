@@ -30,7 +30,7 @@
 # [PEF](/PEF.md)
 # [PNG](/PNG.md)
 # [PPM](/PPM.md)
-PS
+# [PS](/PS.md)
 PSD
 RAF
 RAW
