@@ -16,7 +16,7 @@
 # [GIF](/GIF.md)
 # [HEIC](/HEIC.md)
 # [HEIF](/HEIF.md)
-ICNS
+# [ICNS](/ICNS.md)
 ICO
 JFIF
 JPEG
