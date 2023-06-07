@@ -1,1 +1,1 @@
-# All-Image-Extentions
+# All Types of Image File Extensions
