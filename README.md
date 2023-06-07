@@ -23,9 +23,9 @@
 # [JPG](/JPG.md)
 # [MOS](/MOS.md)
 # [MRW](/MRW.md)
-NEF
-ODD
-ODG
+# [NEF](/NEF.md)
+# [ODD](/ODD.md)
+# [ODG](/ODD.md)
 ORF
 PEF
 PNG
