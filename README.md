@@ -9,7 +9,7 @@
 # [CR2](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR2.md)
 # [CR3](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CR3.md)
 # [CRW](https://github.com/MRCYODev/All-Image-Extentions/blob/main/CRW.md)
-DCR
+# [DCR](https://github.com/MRCYODev/All-Image-Extentions/blob/main/DCR.md)
 DNG
 EPS
 ERF
