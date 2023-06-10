@@ -1,6 +1,5 @@
 # All Types of Image File Extensions
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-purple.svg)](thepowerofthedark123@gmail.com)
 
 ```git
 3FR, ARW, AVIF, BMP, CR2, CR3, CRW, DCR, DNG, EPS, ERF, GIF, HEIC, HEIF, ICNS,
