@@ -1,5 +1,14 @@
 # All Types of Image File Extensions
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-purple.svg)](thepowerofthedark123@gmail.com)
+
+```git
+3FR, ARW, AVIF, BMP, CR2, CR3, CRW, DCR, DNG, EPS, ERF, GIF, HEIC, HEIF, ICNS,
+ICO, JFIF, JPEG, JPG, MOS, MRW, NEF, ODD, ODG, ORF, PEF, PNG, PPM, PS, PSD, RAF,
+RAW, RW2, TIF, TIFF, WEBP, X3F, XCF, XPS
+```
+
+
 <img src="https://github.com/MRCYODev/All-Image-Extentions/blob/main/Image%20Extention.png?raw=true" width="500" align="right">
 
 # [3FR](/3FR.md)
